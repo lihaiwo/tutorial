@@ -1,3 +1,5 @@
+server:
+  port: 8503
 zuul:
   routes:
     feign-consumer: /feign-consumer1/**
