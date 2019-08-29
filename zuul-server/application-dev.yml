@@ -1,5 +1,7 @@
-server:
-  port: 8504
+#自定义配置
+business: 
+  name: 张三
+  sex: 男
 zuul:
   routes:
     feign-consumer: /feign-consumer1/**
