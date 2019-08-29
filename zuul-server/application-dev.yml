@@ -1,6 +1,6 @@
 #自定义配置
 business: 
-  name: 张三
+  name: 李四
   sex: 男
 zuul:
   routes:
